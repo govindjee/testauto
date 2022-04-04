@@ -10,4 +10,4 @@ def test_add():
 
 
 def test_weater():
-    assert get_wather()==58
+    assert get_wather()<=58
